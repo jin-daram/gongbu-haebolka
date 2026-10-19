@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: event
+  datasource:
+    url: jdbc:h2:mem:event
+    username: sa
+    password:
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
