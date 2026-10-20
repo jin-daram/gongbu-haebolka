@@ -1,4 +1,4 @@
-package com.ocr.event.api.request
+package com.ocr.event.api.upload.request
 
 data class UploadRequest(
     val fileName: String,

@@ -1,6 +1,6 @@
-package com.ocr.event.service
+package com.ocr.event.service.ocr
 
-import com.ocr.event.api.request.UploadRequest
+import com.ocr.event.api.upload.request.UploadRequest
 import com.ocr.event.module.ocr.OcrModule
 import com.ocr.event.module.storage.InMemoryMultipartFile
 import com.ocr.event.module.storage.StorageModule

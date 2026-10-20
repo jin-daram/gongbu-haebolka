@@ -1,10 +1,9 @@
-package com.ocr.event.service
+package com.ocr.event.service.ocr
 
 import com.ocr.event.config.OCR_GROUP
 import org.slf4j.LoggerFactory
 import org.springframework.data.redis.connection.stream.MapRecord
 import org.springframework.data.redis.core.StringRedisTemplate
-import org.springframework.data.redis.stream.StreamListener
 import org.springframework.stereotype.Component
 
 @Component

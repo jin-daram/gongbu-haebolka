@@ -1,4 +1,4 @@
-package com.ocr.event.domain
+package com.ocr.event.domain.internalfile
 
 enum class InternalFileType {
 

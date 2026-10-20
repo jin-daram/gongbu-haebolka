@@ -1,4 +1,4 @@
-package com.ocr.event.domain
+package com.ocr.event.domain.internalfile
 
 import jakarta.persistence.Entity
 import jakarta.persistence.EnumType

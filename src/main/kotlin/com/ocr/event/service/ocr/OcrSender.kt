@@ -1,4 +1,4 @@
-package com.ocr.event.service
+package com.ocr.event.service.ocr
 
 import com.ocr.event.config.OCR_STREAM
 import org.slf4j.LoggerFactory

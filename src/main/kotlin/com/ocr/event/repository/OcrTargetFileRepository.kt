@@ -1,6 +1,6 @@
 package com.ocr.event.repository
 
-import com.ocr.event.domain.OcrTargetFile
+import com.ocr.event.domain.ocr.OcrTargetFile
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 

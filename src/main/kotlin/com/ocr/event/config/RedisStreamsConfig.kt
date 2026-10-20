@@ -1,6 +1,6 @@
 package com.ocr.event.config
 
-import com.ocr.event.service.OcrReceiver
+import com.ocr.event.service.ocr.OcrReceiver
 import org.slf4j.LoggerFactory
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
